@@ -380,12 +380,20 @@ table td .flowTxt {
 
 .app-container .app-container1 .empty-hide {
   margin: 0px auto;
-  width: 90%;
+  width: 100%;
 }
 
 .app-container .app-container1 .empty-hide th {
   margin: 0px auto;
-  width: 150px;
+  width: 30%;
+}
+
+.app-container .app-container1 .empty-hide td {
+  width: 20%;
+}
+
+.app-container .app-container1 h2 {
+  text-align: center;
 }
 
 .app-container .app-container1 .map {
