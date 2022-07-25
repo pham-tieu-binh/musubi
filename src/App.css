@@ -279,15 +279,25 @@
 /*****************************************************************/
 .footer1 {
   text-align: left;
-  color: brown;
-  font-weight: bolder;
+  font-weight: bold;
+  font-size: 23px;
   padding-bottom: 3px;
-  border-bottom: solid 1px burlywood;
-  font-size: 20px;
 }
 
 .vanban {
   line-height: 2em;
+}
+
+.vanban1 {
+  font-size: 20px;
+  text-decoration: underline;
+  padding-bottom: 3px;
+}
+
+.vanban2 {
+  font-size: 16px;
+  font-weight: 600;
+  padding-bottom: 3px;
 }
 
 /********************************************************************/
